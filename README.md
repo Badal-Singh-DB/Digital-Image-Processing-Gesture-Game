@@ -1,4 +1,4 @@
-![image](https://github.com/Badal-Singh-DB/Digital-Image-Processing-Gesture-Game/assets/166742256/dd51efc3-2caf-43ec-986b-4a21f5bda420)# Digital-Image-Processing-Gesture-Game
+# Digital-Image-Processing-Gesture-Game
 # DIP-project-
 Controlling the game ( like subway surfer , temple run etc,) using hand contours 
 
